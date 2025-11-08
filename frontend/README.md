@@ -5,9 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+CUST-F0C865D9
 
 ### `npm start`
 
+{"\_id":{"$oid":"690dfc4f60e1ca45b055a201"},"name":"naga1","email":"naga3@gmail.com","password":"$2a$10$bbcottQLC0oHHYjLmIrdiOm1P2lIo6czGw5sGQJQ1QH4VyE/R.PNi","customerId":"CUST-F0C865D9","createdAt":{"$date":{"$numberLong":"1762524239368"}},"updatedAt":{"$date":{"$numberLong":"1762524239368"}},"\_\_v":{"$numberInt":"0"}}
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
